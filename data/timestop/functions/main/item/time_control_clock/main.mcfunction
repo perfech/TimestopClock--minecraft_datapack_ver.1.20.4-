@@ -1,0 +1,1 @@
+function timestop:main/item/time_control_clock/item_have

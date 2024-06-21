@@ -1,0 +1,1 @@
+function timestop:main/detect_player_action/sneak
